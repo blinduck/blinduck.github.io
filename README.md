@@ -1,0 +1,2 @@
+# blinduck.github.io
+blog
